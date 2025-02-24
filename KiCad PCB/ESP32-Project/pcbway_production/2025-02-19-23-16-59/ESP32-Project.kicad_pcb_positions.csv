@@ -1,0 +1,9 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+35.26,-41.3,0.0,top,A1,,,Arduino_Nano,Arduino_Nano_ESP32,tht
+55.835,-44.505,0.0,top,BT1,,,BatteryHolder_Keystone_2462_2xAA,5V,tht
+79.0,-72.5,0.0,top,C2,,,CP_Elec_5x3,10uF,smt
+78.0,-80.0,0.0,top,D1,,,LED_D4.0mm,LED,tht
+90.65,-73.69,-90.0,top,R1,,,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,4.7k,tht
+87.5,-73.69,-90.0,top,R2,,,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,330,tht
+57.5,-72.88,0.0,top,U1,,,Aosong_DHT11_5.5x12.0_P2.54mm,DHT11,tht
+68.5,-77.0,0.0,top,U2,,,SOT-223-3_TabPin2,AMS1117,smt

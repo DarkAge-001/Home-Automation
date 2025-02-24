@@ -1,0 +1,9 @@
+Home Automation using the internet of Things (IOT) enables remote monitoring and control of household devices via the internet. IOT-based home automation systems use sensors, actuators, microcontrollers (like ESP32, Raspberry Pi), and Wireless communication protocols (WIFI, MQTT) to automate tasks such as lighting, temperature control, security and energy management.
+
+For this Project, there are compilation of home automation key features such as:
+1. Lighting Automation & Scheduling
+2. Security such as Motion Sensors
+3. Cloud Integration such as MQTT and WiFi
+4. Energy Efficiency
+
+IoT home automation improves convenience, security, and energy efficiency, making modern homes smarter and more efficient.

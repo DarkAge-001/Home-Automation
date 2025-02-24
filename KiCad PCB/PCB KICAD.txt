@@ -1,0 +1,11 @@
+This is a PCB design for a Temperature Sensor Module that can Communicate with a central Hub.
+For this Project, i used KICAD Software to design the Schematic diagram for the project and also PCB design.
+
+List of Components:
+1. DHT11 sensor module
+2. ESP32 Micro-controller
+3. Resistors 
+4. Capacitors
+5. Battery Connector case
+
+The FirmWare for this Project was written in C++ using Arduino IDE. The Firmware connects to a cloud server via MQTT.

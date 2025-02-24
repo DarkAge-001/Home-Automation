@@ -1,0 +1,9 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+A1,1,Arduino_Nano_ESP32,Arduino_Nano,,,,tht,"Arduino Nano board based on the ESP32-S3 with a dual-core 240 MHz processor, 384 kB ROM, 512 kB SRAM. Operates at 3.3V, with 5V USB-C® input and 6-21V VIN. Features Wi-Fi®, Bluetooth® LE, digital and analog pins, and supports SPI, I2C, UART, I2S, and CAN."
+BT1,1,5V,BatteryHolder_Keystone_2462_2xAA,,,,tht,Multiple-cell battery
+C2,1,10uF,CP_Elec_5x3,,,,smt,Unpolarized capacitor
+D1,1,LED,LED_D4.0mm,,,,tht,Light emitting diode
+R1,1,4.7k,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,,,,tht,Resistor
+R2,1,330,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,,,,tht,Resistor
+U1,1,DHT11,Aosong_DHT11_5.5x12.0_P2.54mm,,,,tht,"3.3V to 5.5V, temperature and humidity module, DHT11"
+U2,1,AMS1117,SOT-223-3_TabPin2,,,,smt,"1A Low Dropout regulator, positive, adjustable output, SOT-223"

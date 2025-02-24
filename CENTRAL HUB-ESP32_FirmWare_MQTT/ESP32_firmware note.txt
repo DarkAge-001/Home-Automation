@@ -1,0 +1,1 @@
+This Firmware communicates with a central hub (a cloud server) via MQTT. It is used to send DHT11 Sensor data (Temperature, humidity).
